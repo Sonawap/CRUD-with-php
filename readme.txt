@@ -1,1 +1,1 @@
-create a new database "crud" and import crud.sql
+Creating a new user account with image
